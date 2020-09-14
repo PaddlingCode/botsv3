@@ -1,3 +1,6 @@
 description: "Splunk BOTS Dataset v3"
 algorithm: MD5
 checksum: d7ccca99a01cff070dff3c139cdc10eb
+url: "https://botsdataset.s3.amazonaws.com/botsv3/botsv3_data_set.tgz"
+size: "320.1MB"
+format: "Pre-indexed Splunk"
